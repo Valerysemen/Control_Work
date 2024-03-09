@@ -16,3 +16,17 @@ class Program
         string[] inputArray = new string[n];
         
         Console.WriteLine("Введите строки для массива:");
+                for (int i = 0; i < n; i++)
+        {
+            inputArray[i] = Console.ReadLine();
+        }
+        
+        string[] newArray = FilterArrayByLength(inputArray);
+        
+        Console.WriteLine("Отфильтрованный массив строк длиной меньше или равной 3 символам:");
+        foreach (string str in newArray)
+        {
+            Console.WriteLine(str);
+        }
+    }
+
