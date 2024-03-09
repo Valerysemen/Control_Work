@@ -11,14 +11,14 @@ class Program
     static void Main()
     {
         Console.WriteLine("Введите количество строк в массиве:");
-        int n = int.Parse(Console.ReadLine());
+        int n = int.Parse(Console.ReadLine()!);
 
         string[] inputArray = new string[n];
 
         Console.WriteLine("Введите строки для массива:");
         for (int i = 0; i < n; i++)
         {
-            inputArray[i] = Console.ReadLine();
+            inputArray[i] = Console.ReadLine()!;
         }
 
         string[] newArray = FilterArrayByLength(inputArray);
