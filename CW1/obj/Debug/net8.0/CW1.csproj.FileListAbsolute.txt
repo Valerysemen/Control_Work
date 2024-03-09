@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\bin\Debug\net8.0\CW1.exe
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\bin\Debug\net8.0\CW1.deps.json
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\bin\Debug\net8.0\CW1.runtimeconfig.json
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\bin\Debug\net8.0\CW1.dll
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\bin\Debug\net8.0\CW1.pdb
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.AssemblyInfo.cs
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.sourcelink.json
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.dll
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\refint\CW1.dll
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.pdb
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\CW1.genruntimeconfig.cache
+C:\Users\User\Desktop\CW_R\Control_Work\CW1\obj\Debug\net8.0\ref\CW1.dll
