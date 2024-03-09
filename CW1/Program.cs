@@ -12,3 +12,7 @@ class Program
     {
         Console.WriteLine("Введите количество строк в массиве:");
         int n = int.Parse(Console.ReadLine());
+
+        string[] inputArray = new string[n];
+        
+        Console.WriteLine("Введите строки для массива:");
