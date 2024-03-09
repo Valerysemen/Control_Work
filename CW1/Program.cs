@@ -31,7 +31,7 @@ class Program
     }
     static string[] FilterArrayByLength(string[] inputArray)
     {
-        int count = 0
+        int count = 0;
 
 
 
